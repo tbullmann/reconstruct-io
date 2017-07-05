@@ -5,15 +5,15 @@ Generated XML files is verified using the corresponding SERIES.DTD and SECTION.D
 
 Currently only import/export of section XML is implemented.
 
-For use from command line, see [here](../doc/HOWTO.md).
+For use from command line, see [here](doc/HOWTO.md).
 
 ## Prerequisites
 - Linux or OSX
 - Python 2 or Python 3
 
 ## Requirements
-Skiimage
-Matplotlib
+- Skiimage
+- Matplotlib
 
 ## Preferred
 - Anaconda Python distribution
